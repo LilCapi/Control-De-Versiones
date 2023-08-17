@@ -125,7 +125,7 @@ public class Controller {
 	}
 
 	public int sum(){
-		return 1-2;
+		return 1+2;
 	}
 
 }
