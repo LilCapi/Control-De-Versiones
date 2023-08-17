@@ -24,6 +24,10 @@ public class Executable {
 
 	}
 
+	public void feature2() {
+		System.out.println("feature 2");
+	}
+
 	public Executable() {
 		reader = new Scanner(System.in);
 		controller = new Controller();
