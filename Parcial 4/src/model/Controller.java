@@ -124,8 +124,6 @@ public class Controller {
 		return print;
 	}
 
-	public int sum(){
-		return 1+2;
-	}
+	
 
 }
