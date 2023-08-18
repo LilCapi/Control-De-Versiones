@@ -1,0 +1,6 @@
+original: 1.0        (versión 0, "base", sin cambios)
+feature1: 1.1a       (1 cambio respecto a versión 0)
+feature2: 1.1b       (1 cambio respecto a versión 0)
+bugfix: 1.2   [final](1 cambio respecto a ver 1.1)
+
+La version final seria la rama main con los utimos cambios de los features y de la correcion de bug despues de la fusion total de ramas.
