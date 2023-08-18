@@ -95,6 +95,10 @@ public class Controller {
 
 	}
 
+	public int subtraction(){
+		return 1-2;
+	}
+
 	public String showMatrix() {
 
 		Book[][] matrix = fillMatrix();
@@ -123,7 +127,5 @@ public class Controller {
 
 		return print;
 	}
-
-	
 
 }
