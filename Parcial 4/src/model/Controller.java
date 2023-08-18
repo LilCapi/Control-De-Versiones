@@ -124,4 +124,8 @@ public class Controller {
 		return print;
 	}
 
+	public int subtraction(){
+		return 1-2;
+	}
+
 }
