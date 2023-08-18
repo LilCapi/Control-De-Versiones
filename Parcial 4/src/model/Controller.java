@@ -124,7 +124,7 @@ public class Controller {
 		return print;
 	}
 
-	public int sum(){
+	public int subtraction(){
 		return 1-2;
 	}
 
